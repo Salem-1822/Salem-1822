@@ -1,6 +1,5 @@
 # Hi, I'm Salem Zaafrou 👋
 
-![Coding Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ---
 
