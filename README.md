@@ -4,7 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/username/username/blob/main/profile.png" width="140" style="border-radius:50%;"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile.png" 
+       width="150" 
+       style="border-radius:50%; border: 3px solid #D8C9A8;" />
 </p>
 
 <p align="center">
@@ -85,20 +87,8 @@
 
 ---
 
-## 💛 Color Palette used
-
-| Usage | Color |
-|-------|-------|
-| Main | `#D8C9A8` |
-| Dark | `#2C2F3A` |
-| Light | `#F4EEDC` |
-| Highlight | `#5A9BD8` |
-
----
-
 ## ⭐ Thanks for visiting!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
-
