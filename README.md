@@ -1,119 +1,141 @@
-<!-- README.md - Paste this into your GitHub profile repo's README.md -->
+# Hello, I'm Salem Zaafrou
 
-<!-- =========================
-     Animated header (SVG data URI)
-     ========================= -->
-<p align="center">
-  <img alt="Animated header" src="data:image/svg+xml;utf8,
-  %3Csvg xmlns='http://www.w3.org/2000/svg' width='1000' height='220' viewBox='0 0 1000 220'%3E
-    %3Cdefs%3E
-      %3CradialGradient id='g1'%3E
-        %3Cstop offset='0%25' stop-color='%23ff6b6b'/%3E
-        %3Cstop offset='35%25' stop-color='%23f7b733'/%3E
-        %3Cstop offset='70%25' stop-color='%2388e0ef'/%3E
-        %3Cstop offset='100%25' stop-color='%236a11cb'/%3E
-      %3C/radialGradient%3E
-      %3Cfilter id='f1'%3E
-        %3CfeGaussianBlur stdDeviation='30' /%3E
-      %3C/filter%3E
-    %3C/defs%3E
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Laravel+Developer;OFPPT+Student;Always+Learning" alt="Typing SVG">
+</div>
 
-    %3C!-- colorful moving blobs --%3E
-    %3Cellipse cx='150' cy='80' rx='180' ry='60' fill='url(%23g1)' opacity='0.65' filter='url(%23f1)'%3E
-      %3Canimate attributeName='cx' values='120;220;120' dur='9s' repeatCount='indefinite'/%3E
-      %3Canimate attributeName='cy' values='60;120;60' dur='11s' repeatCount='indefinite'/%3E
-    %3C/ellipse%3E
-
-    %3Cellipse cx='820' cy='110' rx='200' ry='70' fill='%23a0e7e5' opacity='0.55' filter='url(%23f1)'%3E
-      %3Canimate attributeName='cx' values='880;720;880' dur='10s' repeatCount='indefinite'/%3E
-      %3Canimate attributeName='cy' values='90;140;90' dur='12s' repeatCount='indefinite'/%3E
-    %3C/ellipse%3E
-
-    %3C!-- main title with subtle color-shift --%3E
-    %3Ctext x='50%25' y='50%25' text-anchor='middle' font-family='Segoe UI, Roboto, -apple-system, Arial' font-size='36' font-weight='700' fill='white' dy='12'%3E
-      %3Ctspan%3ESalem Zaafrou —%3C/tspan%3E
-    %3C/text%3E
-
-    %3Ctext x='50%25' y='68%25' text-anchor='middle' font-family='Segoe UI, Roboto, -apple-system, Arial' font-size='18' fill='%23ffffff' opacity='0.95'%3E
-      %3Ctspan%3EFull-stack Web Dev • PHP • React • Laravel • POO%3C/tspan%3E
-      %3Canimate attributeName='opacity' values='0.8;1;0.8' dur='6s' repeatCount='indefinite'/%3E
-    %3C/text%3E
-
-    %3C!-- little animated "code" rectangle --%3E
-    %3Crect x='30' y='150' width='140' height='40' rx='8' ry='8' fill='%23000000' opacity='0.12'%3E
-      %3Canimate attributeName='x' values='20;30;20' dur='8s' repeatCount='indefinite'/%3E
-    %3C/rect%3E
-    %3Ctext x='50' y='178' font-family='monospace' font-size='13' fill='%23fff' opacity='0.9'%3E
-      %3Ctspan%3E%3C%2F%3E php · javascript · react%3C/tspan%3E
-    %3C/text%3E
-
-  %3C/svg%3E" />
-</p>
-
-<!-- =========================
-     Quick intro
-     ========================= -->
-<h1 align="center">Hi, I'm Salem 👋</h1>
-
-<p align="center">
-  I'm a web developer from Morocco — I build dynamic and clean web apps with <strong>PHP</strong>, <strong>Laravel</strong>, and <strong>React</strong>. I love learning POO, creating CRUD apps, and playing with UI animations.
-</p>
-
-<!-- =========================
-     Badges
-     ========================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20work-brightgreen" alt="status" />&nbsp;
-  <img src="https://img.shields.io/badge/LANGUAGES-PHP%20%7C%20JS%20%7C%20SQL-blue" alt="langs" />&nbsp;
-  <img src="https://img.shields.io/badge/STACK-Laravel%20%7C%20React%20%7C%20MySQL-yellowgreen" alt="stack" />&nbsp;
-  <img src="https://img.shields.io/badge/CONTACT-salemzaafrou%40gmail.com-red" alt="contact" />
-</p>
-
-<!-- =========================
-     What I do / Projects
-     ========================= -->
-## 🔭 Projects & Focus
-- Building CRUD apps with **PHP + MySQL** and modern frontends with **React**.  
-- Learning system security and POO design patterns.  
-- Experimenting with UI animations and SVG magic for readable & fun profiles.
-
-## 🧰 Tech & Tools
-`PHP` `Laravel` `React` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Linux`
-
-<!-- =========================
-     GitHub stats (optional) 
-     ========================= -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="github-stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak" />
-</p>
-
-<!-- =========================
-     Contact / Socials
-     ========================= -->
-## 📫 How to reach me
-- Email: salemzaafrou@gmail.com  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-- Twitter: [@yourhandle](https://twitter.com/YOUR_HANDLE)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=salemzaafrou&color=yellow&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/salemzaafrou?color=yellow&style=flat-square&logo=github&label=Followers" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/salemzaafrou?color=yellow&style=flat-square&logo=github&label=Stars" alt="GitHub Stars">
+</div>
 
 ---
 
-### ✨ Customize colors & animation
-- In the SVG data URI (the `<img src="data:image/svg+xml;utf8,...">`), change the gradient stop colors (`%23ff6b6b` etc. are hex values URL-encoded; `%23` = `#`) to your preferred palette.
-- To change speed, tweak `dur='9s'`, `dur='10s'`, etc.
-- To update the header text, edit the `<text>` tspan values inside the SVG.
-- If you prefer a static image, replace the `<img>` with a normal `![header](path/to/image.png)`.
+## 🧑‍💻 About Me
 
-### 🔧 Replace placeholders
-- Replace `YOUR_GITHUB_USERNAME` in the GitHub stats image URLs with your GitHub username.
-- Replace socials and email with your real links.
+<p align="center">
+  <img src="banner.png" alt="Banner Salem Zaafrou" style="width:100%; max-height:300px; object-fit:cover;">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/📌_FULL_STACK-DEVELOPER-FACC15?style=for-the-badge&labelColor=000000" alt="Full Stack Developer Badge" />
+</p>
+
+I’m a **Full-Stack Web Developer** specialized in **React, Laravel, PHP, CRUD apps, and modern UI**.  
+I love building clean, efficient, and scalable web applications.
 
 ---
 
-If you want:
-- I can generate a **dark** or **minimal** variant.
-- Or create a **GIF**-based header instead (faster compatibility).
-- Or produce a custom SVG that types out multiple job titles automatically.
+## 🚀 Technologies & Tools
 
-Tell me which colors and what exact text (name, job titles, links) — I'll update the file. Would you like a dark theme version next? 😊
+### 🔹 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+
+### 🔹 Backend
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### 🔹 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salemzaafrou&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=FFFFFF" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salemzaafrou&theme=radical&hide_border=true&background=0D1117&ring=FACC15&fire=FACC15&currStreakLabel=FACC15" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemzaafrou&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salemzaafrou&theme=radical&hide_border=true&bg_color=0D1117&color=FACC15&line=FACC15&point=FFFFFF" width="48%">
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/salemzaafrou/portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salemzaafrou&repo=portfolio&theme=radical&title_color=FACC15&text_color=FFFFFF&bg_color=0D1117">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/salemzaafrou/crud-laravel" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salemzaafrou&repo=crud-laravel&theme=radical&title_color=FACC15&text_color=FFFFFF&bg_color=0D1117">
+  </a>
+</div>
+
+---
+
+## 🎓 Education
+
+| Year | Degree | Institution |
+|------|--------|-------------|
+| ![2024-2026](https://img.shields.io/badge/2024--2026-yellow?style=for-the-badge&logo=calendar) | Digital Development | OFPPT |
+| ![2023](https://img.shields.io/badge/2023-yellow?style=for-the-badge&logo=calendar) | Baccalauréat Sciences | Lycée Mohamed 6 |
+
+---
+
+## 🌍 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/English-B1-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/French-B1-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Arabic-Native-yellow?style=for-the-badge">
+</p>
+
+---
+
+## 🤝 Open to Collaborations
+
+- 💻 Build modern web applications  
+- 🎨 Convert UI/UX into responsive code  
+- 🌐 Create personal portfolios  
+- 🧩 Work on open-source projects  
+
+---
+
+## 📩 Contact Me
+
+<p align="center">
+  <a href="mailto:salemzaafrou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/salem-zaafrou">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/salemzaafrou">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://instagram.com/salem.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=FACC15&center=true&width=450&lines=Thanks+for+visiting!;Let's+build+great+projects+together!" />
+</div>
