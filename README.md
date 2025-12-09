@@ -77,7 +77,7 @@
 ## 🔗 Social Links
 
 <p align="center">
-<a href="https://www.linkedin.com/in/salem-zaafrou">
+<a href="[https://www.linkedin.com/in/salem-zaafrou](https://www.linkedin.com/in/salem-zaafrou-55320b343?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBFA1IEOfSqKqLZbimxSbZg%3D%3D)">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
