@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salemzaafrou/salemzaafrou/main/profile.png"
+  <img src="#"
         width="150"
         style="border-radius:50%; border: 3px solid #D8C9A8;" />
 </p>
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salemzaafrou&show_icons=true&theme=calm&title_color=D8C9A8&icon_color=D8C9A8&text_color=FFFFFF&bg_color=2C2F3A" height="150" />
+<img src="#" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salemzaafrou&theme=dark&background=2C2F3A&ring=D8C9A8&fire=D8C9A8&currStreakLabel=D8C9A8" height="150" />
+<img src="#" />
 
 </div>
 
@@ -69,7 +69,7 @@
 ## 🧩 Languages Used
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemzaafrou&layout=compact&theme=calm&title_color=D8C9A8&bg_color=2C2F3A&text_color=FFFFFF" height="150" />
+<img src="#" />
 </div>
 
 ---
