@@ -5,8 +5,7 @@
 
 <p align="center">
   <img src="GGITHUB.png"
-     width="150"
-     style="border-radius:50%; border: 3px solid #D8C9A8;"  />
+alt="GGITHUB Salem-1822" style="width:100%; max-height:300px; object-fit:cover;  />
 </p>
 
 <p align="center">
