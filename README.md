@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="#"
+  <img src="GGUTHUB.png"
         width="150"
         style="border-radius:50%; border: 3px solid #D8C9A8;" />
 </p>
