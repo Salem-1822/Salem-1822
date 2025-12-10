@@ -9,7 +9,7 @@
     src="./GGITHUB.png" 
     alt="GGITHUB Salem-1822"
     style="
-      width: 70%;
+      width: 100%;
       max-height: 300px;
       object-fit: cover;
       border-radius: 20px;
