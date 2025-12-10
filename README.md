@@ -5,8 +5,8 @@
 
 <p align="center">
   <img src="GGITHUB.png"
-        width="150"
-        style="border-radius:50%; border: 3px solid #D8C9A8;" />
+     width="150"
+     style="border-radius:50%; border: 3px solid #D8C9A8;"  />
 </p>
 
 <p align="center">
