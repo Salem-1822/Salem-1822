@@ -1,14 +1,24 @@
 <!-- Banner / Title -->
-<h1 align="center">
+<h1 align="center" style="color:#222;">
   Hey there, I'm <span style="color:#D8C9A8;">Salem Zaafrou</span> 👋
 </h1>
 
+<!-- Profile Image -->
 <p align="center">
-  <img src="GGITHUB.png"
-alt="GGITHUB Salem-1822" style="width100%"; max-height:300px; object-fit:cover;  />
+  <img 
+    src="./GGITHUB.png" 
+    alt="GGITHUB Salem-1822"
+    style="
+      width: 70%;
+      max-height: 300px;
+      object-fit: cover;
+      border-radius: 20px;
+      border: 3px solid #D8C9A8;
+    "
+  />
 </p>
 
-<p align="center">
+<p align="center" style="color:#444; font-size:18px;">
   <b>Full Stack Developer — React.js | Laravel | MySQL | NoSQL</b>
 </p>
 
@@ -16,23 +26,24 @@ alt="GGITHUB Salem-1822" style="width100%"; max-height:300px; object-fit:cover; 
 
 <!-- Animated Intro -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=900&color=D8C9A8&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;React+%7C+Laravel+%7C+MySQL+%7C+NoSQL"
-       alt="Typing Animation" />
+  <img 
+       src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=900&color=D8C9A8&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;React+%7C+Laravel+%7C+MySQL+%7C+NoSQL"
+       alt="Typing Animation"
+  />
 </h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Étudiant passionné par le développement web  
+- 🎓 Passionate Web Development Student  
 - 💻 Full stack: **React.js + Laravel + MySQL / MongoDB**  
-- ⚡ J'aime créer des applications modernes, rapides et bien structurées  
-- 🌍 Basé au Maroc  
+- ⚡ Love building fast, modern, clean applications  
+- 🌍 Based in Morocco  
 - 📬 Email: **salemzaafrou@gmail.com**
 
 ---
 
 ## 🎨 Tech Stack
-
 <div align="center">
 
 ### **Frontend**
@@ -43,7 +54,7 @@ alt="GGITHUB Salem-1822" style="width100%"; max-height:300px; object-fit:cover; 
 
 ### **Backend**
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/> <!-- FIXED -->
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 
 ### **Database**
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -54,19 +65,14 @@ alt="GGITHUB Salem-1822" style="width100%"; max-height:300px; object-fit:cover; 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
 <img src="#" />
-
 <img src="#" />
-
 </div>
 
 ---
 
 ## 🧩 Languages Used
-
 <div align="center">
 <img src="#" />
 </div>
@@ -74,9 +80,8 @@ alt="GGITHUB Salem-1822" style="width100%"; max-height:300px; object-fit:cover; 
 ---
 
 ## 🔗 Social Links
-
 <p align="center">
-<a href="[https://www.linkedin.com/in/salem-zaafrou](https://www.linkedin.com/in/salem-zaafrou-55320b343?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBFA1IEOfSqKqLZbimxSbZg%3D%3D)">
+<a href="https://www.linkedin.com/in/salem-zaafrou-55320b343/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
