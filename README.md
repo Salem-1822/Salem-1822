@@ -126,7 +126,7 @@ I'm a Full-Stack Web Developer interested in building modern and functional web 
 
 ## 📫 Contact
 
-I'm open to connecting with developers, collaborating on projects, and exploring internship or junior developer opportunities.
+I'm open to connecting with developers, collaborating on projects, and exploring internship or  developer opportunities
 
 <p align="center">
   <a href="mailto:salemzaafrou@gmail.com">
