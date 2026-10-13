@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assest/BANNERSALEM.png" alt="Salem Zaafrou - Full Stack Web Developer" width="100%" />
+  <img src="./assets/BANNERSALEM.jfif" alt="Salem Zaafrou - Full Stack Web Developer" width="100%" />
 </p>
 
 <h1 align="center">Salem Zaafrou</h1>
