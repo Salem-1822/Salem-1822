@@ -98,17 +98,17 @@ I'm a Full-Stack Web Developer interested in building modern and functional web 
 
 ---
 
-## 📊 GitHub Overview
+ ## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salem-1822&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E7781&text_color=57606A&icon_color=6E7781" width="49%" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Salem-1822&show_icons=true&hide_border=false&border_color=D0D7DE&border_radius=10&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=57606A&rank_icon=github" width="49%" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salem-1822&layout=compact&hide_border=true&bg_color=00000000&title_color=6E7781&text_color=57606A" width="41%" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salem-1822&layout=compact&hide_border=false&border_color=D0D7DE&border_radius=10&bg_color=FFFFFF&title_color=24292F&text_color=57606A" width="41%" alt="Most Used Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salem-1822&hide_border=true&background=00000000&ring=8B949E&fire=6E7781&currStreakLabel=57606A&sideLabels=57606A&dates=8B949E" width="80%" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=Salem-1822&hide_border=false&border=D0D7DE&border_radius=10&background=FFFFFF&ring=57606A&fire=24292F&currStreakLabel=24292F&sideLabels=57606A&dates=6E7781&currStreakNum=24292F&sideNums=24292F" width="80%" alt="GitHub Contribution Streak" />
 
 </div>
 
