@@ -2,14 +2,14 @@
   <img src="./assets/BANNERSALEM.jfif" alt="Salem Zaafrou - Full-Stack Web Developer" width="100%" />
 </p>
 
-<h1 align="center">Salem Zaafrou</h1>
+ <h1 align="center">Salem Zaafrou</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2800&pause=1000&color=24292F&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Web+Developer;JavaScript+%7C+React.js+%7C+Laravel+%7C+PHP" alt="Full-Stack Web Developer - JavaScript, React.js, Laravel, PHP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Web+Developer;JavaScript+%7C+React.js+%7C+Laravel+%7C+PHP" alt="Full-Stack Web Developer - JavaScript, React.js, Laravel, PHP" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Building+Modern+Web+Applications;Always+Learning+%26+Improving" alt="Building Modern Web Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Building+Modern+Web+Applications;Always+Learning+%26+Improving" alt="Building modern web applications" />
 </p>
 
 <p align="center">
