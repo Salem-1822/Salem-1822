@@ -102,15 +102,14 @@ I'm a Full-Stack Web Developer interested in building modern and functional web 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salem-1822&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salem-1822&layout=compact&theme=dark&hide_border=true" width="48%" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Salem-1822&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Statistics" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Salem-1822&layout=compact&theme=dark&hide_border=true" width="48%" alt="Most Used Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Salem-1822&theme=dark&hide_border=true" width="97%" alt="GitHub Contribution Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salem-1822&theme=dark&hide_border=true" width="97%" alt="GitHub Contribution Streak" />
 
 </div>
-
 ---
 
 ## 🎯 Current Focus
