@@ -101,12 +101,12 @@ I'm a Full-Stack Web Developer interested in building modern and functional web 
 
 <div align="center">
 
-<img src="https://github-readme-stats-82387.vercel.app/api?username=Salem-1822&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Statistics" />
-<img src="https://github-readme-stats-82387.vercel.app/api/top-langs/?username=Salem-1822&layout=compact&theme=dark&hide_border=true" width="48%" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salem-1822&theme=2077" width="48%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salem-1822&theme=2077" width="48%" alt="Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Salem-1822&theme=dark&hide_border=true" width="97%" alt="GitHub Contribution Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salem-1822&theme=react-dark&hide_border=true" width="97%" alt="GitHub Activity Graph" />
 
 </div>
 ---
