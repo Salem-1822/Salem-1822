@@ -106,7 +106,7 @@ I'm a Full-Stack Web Developer interested in building modern and functional web 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salem-1822&theme=github-compact&hide_border=true&bg_color=0D1117" width="97%" alt="GitHub Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salem-1822&theme=github_dark" width="97%" alt="GitHub Profile Details" />
 
 </div>
 ---
